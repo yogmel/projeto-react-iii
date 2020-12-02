@@ -1,0 +1,81 @@
+.p-autora{
+    
+    color: #00C7C7;
+    font-weight: 75px;
+    margin: 20px;
+    margin-top: 80px;
+    width: 100vh;
+    height: 100vh;
+    padding-top: 45px;
+    padding-right: 20px;
+}
+h1, h3 {
+    color: #00C7C7;
+    margin-top: 30px;
+}
+ul{
+display: flex;
+text-align: center;
+justify-content: center;
+}
+
+ol{
+
+margin: 20px;
+
+}
+.img{
+    
+    border-radius: 200px;
+    width: 325px;
+    height: 325px;
+    border: 1px solid rgb(15, 15, 15);
+    margin: 20px;
+    margin-top: 40px;
+
+}
+.caixa{
+display: block;
+text-align: center;
+background: url('../../Assets/persona_amarelo.svg') no-repeat 80% ;
+background-size: 280px;
+justify-content: space-between;
+}
+.div-link{
+    display: block;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    font-size: 15px;
+    
+}
+.div_autora{
+    display:flex;
+    text-align: center;
+}
+.toLink{
+    
+    width: 65px;
+    height: 35px;  
+    border: 0;  
+    background: #12AFCB;
+    border-radius: 5px;  
+    cursor: pointer;  
+    transition: background-color 0.2s;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 7px;
+}
+.footer_autora{
+    background: linear-gradient(329.54deg, #a5a3a5 0%, #676668 100%);
+    color: #fff;
+    justify-content: center;
+    display: flex;
+}
+.p-footer{
+    color: #fff;
+    font-size: 12px;
+    height: 20px;
+    margin-top: 50px;
+}
