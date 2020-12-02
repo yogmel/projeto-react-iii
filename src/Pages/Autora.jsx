@@ -29,9 +29,9 @@ const Autora = () => {
             </div>
             <footer className='footer_autora'>
                 <ul>
-                    <ol><a target='blank' href="https://www.instagram.com/michellecoelho7/" target='blank' ><AiOutlineInstagram size='35' color='#fff' /></a></ol>
-                    <ol><a target='blank' href="https://github.com/micheleset7" target='blank'><AiOutlineGithub size='35' color='#fff' /></a></ol>
-                    <ol><a target='blank' href="https://www.linkedin.com/in/michele-coelho-5017aa79/" target='blank'><AiFillLinkedin size='35' color='#fff' /></a></ol>
+                    <ol><a target='blank' href="https://www.instagram.com/michellecoelho7/" ><AiOutlineInstagram size='35' color='#fff' /></a></ol>
+                    <ol><a target='blank' href="https://github.com/micheleset7"><AiOutlineGithub size='35' color='#fff' /></a></ol>
+                    <ol><a target='blank' href="https://www.linkedin.com/in/michele-coelho-5017aa79"><AiFillLinkedin size='35' color='#fff' /></a></ol>
                 </ul>
                 <p className='p-footer'> <AiOutlineCopyrightCircle /> Copyright 2020 By Michele Coelho | Reprograma </p>
             </footer>
